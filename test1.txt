@@ -1,0 +1,2 @@
+输入hello world 12345
+输出12345 world hello

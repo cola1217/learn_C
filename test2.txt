@@ -1,0 +1,2 @@
+输入hellotheworldgoodbye the(帧头) good(帧尾)
+输出theworldgood 
